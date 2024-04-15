@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="fr"><Esri><CreaDate>20220129</CreaDate><CreaTime>16251100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\Rename" Date="20220129" Time="162511">Rename C:\Users\arthu\Desktop\cours_python\source\route\road.shp C:\Users\arthu\Desktop\cours_python\source\route\route.shp ShapeFile</Process></lineage></DataProperties></Esri></metadata>
