@@ -13,13 +13,10 @@ Le script génère une géodatabase (fichier `.gdb`) contenant les couches suiva
 
 Avant d'exécuter le script, assurez-vous de suivre ces étapes d'installation :
 
-1. **Installer Python** :
-    - Assurez-vous d'avoir Python installé sur votre système. Vous pouvez le télécharger depuis [python.org](https://www.python.org/downloads/) et suivre les instructions d'installation.
-
-2. **Installer ArcGis Pro Desktop** :
+1. **Installer ArcGis Pro Desktop** :
     - Assurez-vous d'avoir une licence ArcGis Pro sur votre système. Vous pouvez le télécharger depuis [arcgis.org](https://pro.arcgis.com/fr/pro-app/latest/get-started/get-started.htm) et suivre les instructions d'installation:
 
-3. **Configurer le fichier `exec.bat`** :
+2. **Configurer le fichier `exec.bat`** :
     - Ouvrez le fichier `exec.bat` dans un éditeur de texte (**e.g** : VS Code, notepad++, sublime text).
     - Recherchez la variable `PROPY_BAT_PATH` contenant le chemin vers `propy.bat`.
     ```batch
@@ -35,5 +32,5 @@ Avant d'exécuter le script, assurez-vous de suivre ces étapes d'installation :
     ```batch
     set REGION_NAME="-help"
     ```
-4. **Executer le fichier `exec.bat`**: 
+3. **Executer le fichier `exec.bat`**: 
     - Double-clique sur ce fichier pour lancer l'exécution du script
